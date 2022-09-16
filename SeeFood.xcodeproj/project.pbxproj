@@ -13,6 +13,7 @@
 		8A0FC05C28D4A05E00EE8E6E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A0FC05A28D4A05E00EE8E6E /* Main.storyboard */; };
 		8A0FC05E28D4A05E00EE8E6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A0FC05D28D4A05E00EE8E6E /* Assets.xcassets */; };
 		8A0FC06128D4A05E00EE8E6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A0FC05F28D4A05E00EE8E6E /* LaunchScreen.storyboard */; };
+		8A0FC06928D4A6B100EE8E6E /* Inceptionv3.mlkitmodel in Sources */ = {isa = PBXBuildFile; fileRef = 8A0FC06828D4A6B000EE8E6E /* Inceptionv3.mlkitmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		8A0FC05D28D4A05E00EE8E6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A0FC06028D4A05E00EE8E6E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A0FC06228D4A05E00EE8E6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A0FC06828D4A6B000EE8E6E /* Inceptionv3.mlkitmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlkitmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				8A0FC05D28D4A05E00EE8E6E /* Assets.xcassets */,
 				8A0FC05F28D4A05E00EE8E6E /* LaunchScreen.storyboard */,
 				8A0FC06228D4A05E00EE8E6E /* Info.plist */,
+				8A0FC06828D4A6B000EE8E6E /* Inceptionv3.mlkitmodel */,
 			);
 			path = SeeFood;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A0FC06928D4A6B100EE8E6E /* Inceptionv3.mlkitmodel in Sources */,
 				8A0FC05928D4A05E00EE8E6E /* ViewController.swift in Sources */,
 				8A0FC05528D4A05E00EE8E6E /* AppDelegate.swift in Sources */,
 				8A0FC05728D4A05E00EE8E6E /* SceneDelegate.swift in Sources */,
